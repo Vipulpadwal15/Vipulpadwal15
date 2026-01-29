@@ -1,11 +1,11 @@
 # Hi there, I'm Vipul Padwal! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vipul%20Padwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%26%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vipul%20Padwal&fontSize=80&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <a href="https://vipul-portfolio-a933c.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/vipul-padwal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vipul-padwal-a030b7266/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -66,12 +66,15 @@ I'm a passionate **AI/ML & Full Stack Engineer** focused on building intelligent
 
 ### 📊 GitHub Stats
 
+<!-- Service currently unavailable (503) -->
+<!-- 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vipulpadwal15&show_icons=true&theme=radical&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulpadwal15&layout=compact&theme=radical&hide_border=true)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vipulpadwal15&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
+-->
 
 ---
 
