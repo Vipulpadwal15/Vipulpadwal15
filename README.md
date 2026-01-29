@@ -1,8 +1,6 @@
 # Hi there, I'm Vipul Padwal! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vipul%20Padwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%26%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50" alt="Header" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vipul%20Padwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%26%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50)
 
 <p align="center">
   <a href="https://vipul-portfolio-a933c.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" /></a>
@@ -68,10 +66,8 @@ I'm a passionate **AI/ML & Full Stack Engineer** focused on building intelligent
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vipulpadwal15&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulpadwal15&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Vipulpadwal15&show_icons=true&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulpadwal15&layout=compact&theme=radical&hide_border=true)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vipulpadwal15&theme=radical&hide_border=true" height="150" alt="streak graph" />
