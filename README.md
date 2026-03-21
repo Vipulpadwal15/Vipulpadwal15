@@ -4,8 +4,8 @@
 
 ### 🤖 AIML & Full Stack Developer | AI Systems Builder | MERN Stack Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Vipulpadwal15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-padwal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vipul-portfolio-a933c.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-padwal-a030b7266/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulpadwal2@gmail.com)
 
 📍 **Mumbai, India** | 🎓 **B.Tech AIML – Mumbai University** | 💡 **Building AI-Driven Web Systems**
