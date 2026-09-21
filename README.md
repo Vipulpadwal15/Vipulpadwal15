@@ -137,7 +137,7 @@ In-depth understanding of SDLC methodologies, Agile practices, and professional 
 <td width="50%">
 
 ### 🎓 **Academic Excellence**
-**B.Tech AIML – Mumbai University**  
+**B.E AIML – Mumbai University**  
 Maintaining a **CGPA of 8/10** while building impactful AI and web development projects.
 
 </td>
